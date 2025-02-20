@@ -23,6 +23,6 @@ jobs:
 
     - name: Compile Java
       run: |
-        cd marKokeN/HolidayTravelVehicles 
+        cd marKokeN/HolidayTravelVehicles/6587065
         javac -d . *.java
       # Compile java file from directory
